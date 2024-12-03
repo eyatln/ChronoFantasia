@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Chrono-fantasia/static/css/main.79d19d76.css",
-    "main.js": "/Chrono-fantasia/static/js/main.75632618.js",
-    "static/media/logo.png": "/Chrono-fantasia/static/media/logo.5b433ed1dfe81fafc717.png",
-    "static/media/egyp.png": "/Chrono-fantasia/static/media/egyp.21e993a622eb1edadce0.png",
-    "static/media/victo.png": "/Chrono-fantasia/static/media/victo.4201fa0d72022463b503.png",
-    "static/media/ange.png": "/Chrono-fantasia/static/media/ange.ddc4fb034da1f0d31247.png",
-    "static/media/background.png": "/Chrono-fantasia/static/media/background.a659743a80246faa4e1f.png",
-    "index.html": "/Chrono-fantasia/index.html",
-    "main.79d19d76.css.map": "/Chrono-fantasia/static/css/main.79d19d76.css.map",
-    "main.75632618.js.map": "/Chrono-fantasia/static/js/main.75632618.js.map"
+    "main.css": "/ChronoFantasia/static/css/main.79d19d76.css",
+    "main.js": "/ChronoFantasia/static/js/main.73b7e328.js",
+    "static/media/logo.png": "/ChronoFantasia/static/media/logo.5b433ed1dfe81fafc717.png",
+    "static/media/egyp.png": "/ChronoFantasia/static/media/egyp.21e993a622eb1edadce0.png",
+    "static/media/victo.png": "/ChronoFantasia/static/media/victo.4201fa0d72022463b503.png",
+    "static/media/ange.png": "/ChronoFantasia/static/media/ange.ddc4fb034da1f0d31247.png",
+    "static/media/background.png": "/ChronoFantasia/static/media/background.a659743a80246faa4e1f.png",
+    "index.html": "/ChronoFantasia/index.html",
+    "main.79d19d76.css.map": "/ChronoFantasia/static/css/main.79d19d76.css.map",
+    "main.73b7e328.js.map": "/ChronoFantasia/static/js/main.73b7e328.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.75632618.js"
+    "static/js/main.73b7e328.js"
   ]
 }
