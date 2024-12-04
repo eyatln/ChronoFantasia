@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChronoFantasia/static/css/main.79d19d76.css",
-    "main.js": "/ChronoFantasia/static/js/main.73b7e328.js",
+    "main.js": "/ChronoFantasia/static/js/main.a159256b.js",
     "static/media/logo.png": "/ChronoFantasia/static/media/logo.5b433ed1dfe81fafc717.png",
     "static/media/egyp.png": "/ChronoFantasia/static/media/egyp.21e993a622eb1edadce0.png",
     "static/media/victo.png": "/ChronoFantasia/static/media/victo.4201fa0d72022463b503.png",
@@ -9,10 +9,10 @@
     "static/media/background.png": "/ChronoFantasia/static/media/background.a659743a80246faa4e1f.png",
     "index.html": "/ChronoFantasia/index.html",
     "main.79d19d76.css.map": "/ChronoFantasia/static/css/main.79d19d76.css.map",
-    "main.73b7e328.js.map": "/ChronoFantasia/static/js/main.73b7e328.js.map"
+    "main.a159256b.js.map": "/ChronoFantasia/static/js/main.a159256b.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.73b7e328.js"
+    "static/js/main.a159256b.js"
   ]
 }
